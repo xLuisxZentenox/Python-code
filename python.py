@@ -16,7 +16,6 @@ def validacion():
     elif edad >=1 and edad <18:
         print(f"Usted tiene {edad} años, es menor de edad")
     else:
-        edad 
         print("Porfavor ingrese un dato valido,intentelo nuevamente")
 while True:
     datos()
